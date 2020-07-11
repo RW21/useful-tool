@@ -17,3 +17,4 @@
 ### Buffers
 
 - `C-x C-b` to list all buffers.
+- `C-x arrows` to switch between buffers.
